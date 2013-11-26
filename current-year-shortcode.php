@@ -2,7 +2,7 @@
 /*
 Plugin Name: Current Year Shortcode
 Plugin URI: http://om4.com.au/wordpress-plugins/
-Description: Displays the current year, allowing you to automate footer copyright statements. Use th is simple shortcode: [currentyear]
+Description: Displays the current year, allowing you to automate footer copyright statements. Use this simple shortcode: [currentyear]
 Version: 1.0
 Author: OM4
 Author URI: http://om4.com.au/
