@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Current Year Shortcode
-Plugin URI: http://om4.com.au/wordpress-plugins/
+Plugin URI: https://om4.com.au/plugins/
 Description: Displays the current year, allowing you to automate footer copyright statements. Use this simple shortcode: [currentyear]
-Version: 1.0
+Version: 99
 Author: OM4
-Author URI: http://om4.com.au/
+Author URI: https://om4.com.au/
 Git URI: https://github.com/OM4/current-year-shortcode
 Git Branch: release
 License: GPLv2
@@ -13,7 +13,7 @@ License: GPLv2
 
 /*
 
-   Copyright 2012-2013 OM4 (email: info@om4.com.au    web: http://om4.com.au/)
+   Copyright 2012-2018 OM4 (email: plugins@om4.com.au    web: https://om4.com.au/)
 
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
